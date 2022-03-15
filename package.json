@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-fig",
+  "name": "@fig/eslint-config-fig",
   "version": "1.0.0",
   "files": [
     "index.js"
