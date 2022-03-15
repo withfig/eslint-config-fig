@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-fig",
+  "version": "1.0.0",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 8.11",
+    "prettier": ">= 2.5"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.15.0",
+    "@typescript-eslint/parser": "^5.15.0",
+    "eslint": "^8.11.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.4",
+    "prettier": "^2.5.1"
+  },
+  "description": "base eslint config for fig projects",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
